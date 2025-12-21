@@ -1,0 +1,4 @@
+node_modules
+.env
+build
+git remote add origin https://github.com/ArunPraveen616/secret-chat-application.git
